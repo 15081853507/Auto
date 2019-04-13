@@ -7,3 +7,5 @@ branch1追加的内容
 =======
 branch2追加的内容
 >>>>>>> branch2
+
+version1
