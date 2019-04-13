@@ -9,3 +9,4 @@ branch2追加的内容
 >>>>>>> branch2
 
 version1
+version2
